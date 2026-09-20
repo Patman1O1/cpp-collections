@@ -1,4 +1,0 @@
-#ifndef CPP_COLLECTIONS_HPP
-#define CPP_COLLECTIONS_HPP
-
-#endif // #ifndef CPP_COLLECTIONS_HPP
